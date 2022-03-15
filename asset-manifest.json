@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/better-food-better/static/css/main.073c9b0a.css",
+    "main.js": "/better-food-better/static/js/main.85573c05.js",
+    "static/js/787.03e3e1a2.chunk.js": "/better-food-better/static/js/787.03e3e1a2.chunk.js",
+    "static/media/logo.svg": "/better-food-better/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/better-food-better/index.html",
+    "main.073c9b0a.css.map": "/better-food-better/static/css/main.073c9b0a.css.map",
+    "main.85573c05.js.map": "/better-food-better/static/js/main.85573c05.js.map",
+    "787.03e3e1a2.chunk.js.map": "/better-food-better/static/js/787.03e3e1a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.85573c05.js"
+  ]
+}
